@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "efood-58b8a",
+    "client-7681": "client-7681",
+    "6amtech": "efood-58b8a",
+    "staging": "efood-58b8a",
+    "s": "efood-58b8a"
+  },
+  "targets": {},
+  "etags": {}
+}
